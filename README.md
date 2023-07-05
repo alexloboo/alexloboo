@@ -1,13 +1,11 @@
 ### Hi there, I'm Alex Lobo 👋
 
-## I'm a Python Developer & Student
+## I'm a Developer
 - 🔭 I’m currently working on a inventory management system
-- 🌱 I’m currently learning supervised learning vs unsupervised learning 🤣
+- 🌱 I’m currently learning supervised learning vs unsupervised learning
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Create a chatbot with python
+- 🥅 2023 Goals: Learn Power BI
 - ⚡ Fun fact: I´m a frealancer as a Graphic Designer 🖌️
-<!--- j- 🥅 2020 Goals: Contribute more to Open Source projects & setup my company --->
-<!--- ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://code4learn.teachable.com)
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/MahmoudAhmed6)
