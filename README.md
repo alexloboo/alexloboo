@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I´m a frealancer as a Graphic Designer 🖌️
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="22px" src="[https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png](https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/angular.svg)" />]()
 [<img align="left" alt="Python" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="vs code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
